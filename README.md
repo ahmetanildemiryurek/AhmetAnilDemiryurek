@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" widht ="400" src="http://gifgifs.com/animations/computers-technology/computers-and-parts/happy_1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marazanil&label=Profile%20views&color=0e75b6&style=flat" alt="marazanil" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marazanil" alt="marazanil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/marazanill" target="blank"><img src="https://img.shields.io/twitter/follow/marazanill?logo=twitter&style=for-the-badge" alt="marazanill" /></a> </p>
 
