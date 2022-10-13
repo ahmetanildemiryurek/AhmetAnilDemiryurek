@@ -20,7 +20,7 @@
 <a href="https://twitter.com/marazanill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marazanill" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmetanildemiryurek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-an%c4%b1l-demiry%c3%bcrek-3a5111213/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dmryrk.anil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dmryrk.anil/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/anildemiryurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anildemir704" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anildemiryurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anildemiryurek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
