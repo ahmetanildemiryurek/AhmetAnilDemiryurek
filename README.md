@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/marazanill" target="blank"><img src="https://img.shields.io/twitter/follow/marazanill?logo=twitter&style=for-the-badge" alt="marazanill" /></a> </p>
 
-- 🌱 I’m currently learning ** Java & Spring Boot & Kotlin **
+- 🌱 I’m currently learning ** Java & Spring Boot **
 
 
 - 📫 How to reach me **anildemir704@gmail.com**
