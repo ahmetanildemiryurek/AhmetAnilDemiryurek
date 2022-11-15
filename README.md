@@ -1,12 +1,12 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center" dir="auto"><a id="user-content--hi-there--im-Ahmet-Anil-Demiryürek" class="anchor" aria-hidden="true" href="#-hi-there--im-Ahmet-Anil-Demiryürek"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Hi there <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif"><img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30" data-animated-image="" style="max-width: 100%;"></a> I am 22 years old, I am a 4th year software engineering
+<h1 align="center" dir="auto"><a id="user-content--hi-there--im-Ahmet-Anil-Demiryürek" class="anchor" aria-hidden="true" href="#-hi-there--im-Ahmet-Anil-Demiryürek"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Hi there <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif"><img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30" data-animated-image="" style="max-width: 100%;"></a> I am Anil 
+</h1>
+<p align="center" dir="auto">
+<h3 align="center">I am 22 years old, I am a 4th year software engineering
 student at Fırat University and I will graduate in June 2023. I
 love to write code and find solutions to problems. I have a
 fun and cheerful character. I am a well-liked and smiling
-person who is prone to teamwork.
-</h1>
-<p align="center" dir="auto">
-<h3 align="center">Fırat Üniversitesi 4. Sınıf Yazılım Mühendisliği Öğrencisiyim</h3>
+person who is prone to teamwork.</h3>
 
 <img align="right" alt="Coding" widht ="400" src="http://gifgifs.com/animations/computers-technology/computers-and-parts/happy_1.gif"/>
 
