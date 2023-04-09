@@ -23,10 +23,10 @@ person who is prone to teamwork.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marazanill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marazanill" height="50" width="50" /></a><br>
-<a href="https://www.linkedin.com/in/ahmetanildemiryurek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-an%c4%b1l-demiry%c3%bcrek-3a5111213/" height="50" width="50" /></a><br>
-<a href="https://www.instagram.com/dmryrk.anil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dmryrk.anil/" height="50" width="50" /></a><br>
-<a href="https://www.hackerrank.com/anildemiryurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anildemiryurek" height="50" width="50" /></a><br>
+<a href="https://twitter.com/marazanill" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marazanill" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ahmetanildemiryurek/" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-an%c4%b1l-demiry%c3%bcrek-3a5111213/" height="50" width="50" /></a>
+<a href="https://www.instagram.com/dmryrk.anil/" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dmryrk.anil/" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/anildemiryurek" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anildemiryurek" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
